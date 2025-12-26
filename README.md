@@ -1,4 +1,2 @@
 # demo-pullrequest-template
-test-before
-
-# before
+Demo STG PR
